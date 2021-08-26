@@ -3,6 +3,7 @@
 Estudiante de 7mo semestre de la carrera de sistemas computacionales
 
 :eyes: Estudiante de tiempo completo
+:eyes: TecNM
 
 |       | Lunes                                        | Martes                                       | Miercoles                                    | Jueves                                       | Viernes                                      |
 |-------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
