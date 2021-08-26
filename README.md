@@ -2,6 +2,8 @@
 
 Estudiante de 7mo semestre de la carrera de sistemas computacionales
 
+:eyes: Estudiante de tiempo completo
+
 |       | Lunes                                        | Martes                                       | Miercoles                                    | Jueves                                       | Viernes                                      |
 |-------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
 | 14:00 | Taller de investigación                      | Taller de investigación                      | Taller de investigación                      | Taller de investigación                      |                                              |
